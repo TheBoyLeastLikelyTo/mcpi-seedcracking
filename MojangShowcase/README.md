@@ -16,6 +16,6 @@ In the video, we see the date the world was last joined. However, the generated 
 
 ### Summary:
 
- - FunWorld world last joined: 3:55 PM CET  
- - Unnamed world last joined: 4:05 PM CET  
- - Stream: 4:32 PM CET
+ - FunWorld world last quit: 3:55 PM CET  
+ - Unnamed world last quit: 4:05 PM CET  
+ - Stream Started: 4:32 PM CET
