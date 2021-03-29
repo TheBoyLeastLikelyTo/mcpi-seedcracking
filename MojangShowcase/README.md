@@ -3,7 +3,7 @@
 
 ## World Files/Directories
  - [Survival Demo -  FunWorld](FunWorld)
- - [Creative Demo - Unnamed World](/UnnamedWorld)
+ - [Creative Demo - Unnamed World](UnnamedWorld)
 
 ## Worlds Featured in Video
 
