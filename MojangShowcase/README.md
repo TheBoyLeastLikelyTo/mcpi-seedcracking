@@ -19,3 +19,4 @@ In the video, we see the date the world was last joined. However, the generated 
  - FunWorld world last quit: 3:55 PM CET  
  - Unnamed world last quit: 4:05 PM CET  
  - Stream Started: 4:32 PM CET
+ - **Worlds Likely Generated: 3 o'clock hour**
