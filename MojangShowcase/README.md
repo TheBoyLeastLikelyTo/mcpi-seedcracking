@@ -20,3 +20,5 @@ In the video, we see the date the world was last joined. However, the generated 
  - Unnamed world last quit: 4:05 PM CET  
  - Stream Started: 4:32 PM CET
  - **Worlds Likely Generated: 3 o'clock hour**
+	 - Start Seed: 1359381600
+	 - End Seed: 1359385200
