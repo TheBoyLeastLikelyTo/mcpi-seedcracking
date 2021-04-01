@@ -3,6 +3,7 @@
 Seedcracking project for MCPI-Revival.
 
 ## Seedcracking Project List
+ - [Alpha-Panorama](Alpha-Panorama)
  - [MojangShowcase](MojangShowcase)
 	 - [MojangShowcase Worlds](MojangShowcase)
 	 - [MojangShowcase Video](https://youtu.be/4ayLbL3LBnU)
